@@ -1,0 +1,4 @@
+If an algorithm has a time complexity of O(1), then the complexity of it is ?
+
+
+->constant

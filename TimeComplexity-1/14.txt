@@ -1,0 +1,8 @@
+int count =0;
+while(N>0){
+	count++;
+	N/3;
+}
+
+
+->O(logN){Base3}

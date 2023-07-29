@@ -1,0 +1,13 @@
+Q3. Find Time Complexity
+
+
+public void function(int n){
+	while(n>0){
+		n++;
+		n-=2;
+	}
+}
+
+
+
+->Tc-O(n)
